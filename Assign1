@@ -1,0 +1,9 @@
+1. In covid situation,
+    age (input) > 60 ---> Apollo
+    age > 40 and age < 60 ---> medicare
+    age < 40 and age > 10 ---> narayana
+    age < 10 ----> child care
+    incorrect age    -> Final
+
+2. Take 3 number as input (x,y,z)
+    find the largest number
