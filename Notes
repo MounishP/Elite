@@ -1,0 +1,15 @@
+Errors:
+    1. Compile (Syntax)
+    2. Run time (User end)
+    3. Logical (2+3 = 6)
+
+Functions/Methods(inside a class):
+    Why? --> readable, testable, reusable
+    Types of functions:
+        1. In-built --> print(), input()
+        2. User defined --> default, parameter
+
+    Parts of Functions:
+        1. function call
+        2. function body
+        3. function definition
