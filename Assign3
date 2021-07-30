@@ -1,0 +1,6 @@
+1. N = 6 --> find factors, sum all the factors
+    1,2,3 ---> 1+2+3 = 6 ------> Perfect number
+
+2. n = 145 --> 1!+4!+5! == 145 ----> Strong numbers
+
+3. Find the armstrong number or not
