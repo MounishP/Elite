@@ -13,3 +13,20 @@ Functions/Methods(inside a class):
         1. function call
         2. function body
         3. function definition
+
+
+Loops: (run same command multiple times)
+    For:
+        for i in range(0,10): // for(int i = 0, i <= 10, i++)
+            print(i)  //0,1
+            i = i - 10 // 0
+
+        when u have the end point and we need to execute every iterator
+
+    While:
+        i = 10
+        while(i != 0):
+            print(i)
+            i = i - 10
+
+
