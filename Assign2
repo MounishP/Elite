@@ -1,0 +1,7 @@
+Use for loop and while loop:
+    1. print numbers from 1 to 10
+    2. print even numbers in 1 to 10 with for loop
+    3. print odd numbers in 1 to 10 with while loop
+
+4. take a number find whether the given number is even or odd
+5. take a number find the number is prime or not
